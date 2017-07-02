@@ -1,5 +1,5 @@
-## 姜文  1035465284
-18310349227
+## 宋晓斌  670366876
+13269799844
 
 ## 周末node课程
 - git node基础
@@ -21,3 +21,5 @@
 - 在环境变量中path里配置过
 
 
+
+> http://www.zhufengpeixun.cn/docs/html/index.html
